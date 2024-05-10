@@ -1,6 +1,6 @@
 This code is associated with the publication:
 
-##An exploratory spatial contaminant assessment for polar bear (Ursus maritimus) liver, fat, and muscle from northern Canada
+### An exploratory spatial contaminant assessment for polar bear (Ursus maritimus) liver, fat, and muscle from northern Canada
 
 Boutet, V., Dominique, M., Eccles, K.M., Branigan, M., Dyck, M., van Coeverden de Groot, P., Lougheed, S.C., Rutter A., Langlois V.S. 
 
