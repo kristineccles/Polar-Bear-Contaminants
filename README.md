@@ -1,1 +1,7 @@
-# Polar-Bear-Feces
+This code is associated with the publication:
+
+##An exploratory spatial contaminant assessment for polar bear (Ursus maritimus) liver, fat, and muscle from northern Canada
+
+Boutet, V., Dominique, M., Eccles, K.M., Branigan, M., Dyck, M., van Coeverden de Groot, P., Lougheed, S.C., Rutter A., Langlois V.S. 
+
+Since the industrial era, chemicals have been ubiquitous in worldwide ecosystems. Despite the discontinued release of highly toxic persistent organic pollutants (POPs) in the environment, the levels of some POPs are still being measured in the Canadian Arctic. These contaminants are of great concern due to their persistence, toxicity, and levels of bioaccumulation in food chains. Animals occupying top trophic positions in the Canadian Arctic, particularly polar bears, are exposed to these contaminants mainly through their diet. Our study investigated the levels of 30 metals (including total and methyl mercury) alkaline and alkaline earth metals, 15 polycyclic aromatic compounds and their alkyl congeners (PACs), 6 chlordanes (CHLs), and 20 polychlorinated biphenyls (PCBs), in 49 polar bears from the Canadian Arctic. Contaminant burden was measured in liver, muscle, and fat in bears of different sex, age, and locations. A principal component analysis did not distinguish differences between tables and sex profiles for most contaminants. However, the concentrations measured and their distribution in the tissues confirm findings observed in past studies. This study highlights the importance of continual monitoring of polar bear health (e.g., newly detected PACs were measured within this study) and evaluating those impacts for the next generations of polar bears.
